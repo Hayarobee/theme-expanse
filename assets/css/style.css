@@ -777,8 +777,8 @@ a.btn.btn-mini:hover {
   padding-top: 25px;
 }
 .post-content img {
-  max-width: 600px;
-  max-height: 400px;
+  max-width: 400px;
+  max-height: 300px;
 }
 .post-content .mejs-container {
   margin-top: 12.5px;
